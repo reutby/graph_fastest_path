@@ -1,5 +1,5 @@
 ########################################
-###Find the shortest path in a graph### 
+###Find the fastest path in a graph### 
 ########################################
 
 1. The file find_shortest_path.py contain the algorithm and the main function.
